@@ -1,13 +1,8 @@
 <!-- Dynamic Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Meet%20Modi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Open-Source%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=52&descSize=18"/>
+  <img width="80%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Meet%20Modi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Open-Source%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=52&descSize=18"/>
 </div>
 
-<!-- Profile Views Counter -->
- <p > <!--align="center" -->
-  <img src="https://komarev.com/ghpvc/?username=modi-meet&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <!-- <img src="https://img.shields.io/github/followers/modi-meet?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/> -->
-</p>
 
 
 ## About Me
@@ -33,14 +28,14 @@ Currently:
 <div align="center">
 <h3>Proud Contributor</h3> 
 <a href="https://hacktoberfest.com/">
-  <img src="https://img.shields.io/badge/Hacktoberfest-2025-orange?style=for-the-badge&logo=hacktoberfest&logoColor=white" alt="Hacktoberfest 2025"/>
+  <img width="180" src="https://img.shields.io/badge/Hacktoberfest-2025-orange?style=for-the-badge&logo=hacktoberfest&logoColor=white" alt="Hacktoberfest 2025"/>
 </a>
 <a href="https://gssoc.girlscript.tech/">
-  <img src="https://img.shields.io/badge/GSSoC'25-Contributor-purple?style=for-the-badge&logo=git&logoColor=white" alt="GSSoC 2025"/>
+  <img width="180" src="https://img.shields.io/badge/GSSoC'25-Contributor-purple?style=for-the-badge&logo=git&logoColor=white" alt="GSSoC 2025"/>
 </a>
 </div>
 <br/>
-<table align="center">
+<table align="center" width="80%">
   <tr>
     <td align="center" width="50%">
       <h4>Hacktoberfest</h4>
@@ -48,14 +43,13 @@ Currently:
     </td>
     <td align="center" width="50%">
       <h4>GirlScript Summer of Code</h4>
-      <p>I contributed to vaious community-driven projects and learned so much through implementing & solving issues over 3-months</p>
+      <p>I contributed to various community-driven projects and learned so much through implementing & solving issues over 3-months</p>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  
-[![@modimeet's Holopin board](https://holopin.me/modimeet)](https://holopin.io/@modimeet)
+<img width="79%" src="https://holopin.me/modimeet"/>
 </div>
 
 
@@ -101,13 +95,19 @@ Currently:
 <br/>
 -->
 
+<!-- Profile Views Counter -->
+ <p > <!--align="center" -->
+  <img width="180" src="https://komarev.com/ghpvc/?username=modi-meet&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <!-- <img src="https://img.shields.io/github/followers/modi-meet?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/> -->
+</p>
+
 <div align="center">
-<table>
+<table width="80%">
   <tr>
-    <td width="60%">
+    <td width="360">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=modi-meet&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
     </td>
-    <td width=30%">
+    <td width=360">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=modi-meet&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
     </td>
   </tr>
@@ -132,9 +132,17 @@ Currently:
 
 <!-- <div align="center"> -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/modi-meet)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/modi-meet)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/modi_meet)
+<p align="center">
+<a href="https://linkedin.com/in/modi-meet">
+  <img width="140" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/modi-meet">
+  <img width="140" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<!-- <a href="https://twitter.com/modi_meet">
+  <img width="140" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a> -->
+</p>
 
 <!-- </div> -->
 
@@ -144,13 +152,13 @@ Currently:
 
 ### Developer Quote of the Day
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+<img width="550" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img width="80%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
 
 <div align="center">
