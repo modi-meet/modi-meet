@@ -9,9 +9,8 @@
   <!-- <img src="https://img.shields.io/github/followers/modi-meet?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/> -->
 </p>
 
----
 
-### About Me
+## About Me
 
 ```yaml
 Name: Meet Modi
@@ -29,7 +28,6 @@ Currently:
 - **Interests:** Web Dev, Mobile Apps, AI Integration
 - **Reach me:** [Connect @LinkedIn](https://linkedin.com/in/modi-meet-profile)
 - **Fun fact:** I believe great code tells a story
----
 
 ## Open Source Journey
 <div align="center">
@@ -119,7 +117,7 @@ Currently:
 </div>
 
 ### What I Bring to the Table
-<div align="center">
+<div align="justify">
 
 | Quality | Description |
 |-----------|----------------|
@@ -130,7 +128,7 @@ Currently:
 | **Consistency** | Daily commits and continuous improvement mindset |
 </div>
 
----
+
 
 ### Let's Connect
 
@@ -151,8 +149,6 @@ Currently:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
-
----
 
 <!-- Footer -->
 <div align="center">
