@@ -130,7 +130,7 @@ Currently:
 
 ### Let's Connect
 
-<!-- <div align="center"> -->
+<div align="center">
 
 <p align="center">
 <a href="https://linkedin.com/in/modi-meet">
@@ -143,18 +143,19 @@ Currently:
   <img width="140" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a> -->
 </p>
+<i>If you find my work interesting, let's connect and build something amazing together!</i>
 
-<!-- </div> -->
+</div>
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ### Developer Quote of the Day
 
 <img width="550" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-</div>
+</div> -->
 
 <!-- Footer -->
 <div align="center">
@@ -165,6 +166,5 @@ Currently:
 
 **Thanks for visiting!**
 
-*If you find my work interesting, let's connect and build something amazing together!*
 
 </div>
