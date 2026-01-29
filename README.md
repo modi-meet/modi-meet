@@ -128,7 +128,7 @@ Currently:
 
 
 
-### Let's Connect
+<!-- ### Let's Connect
 
 <div align="center">
 
@@ -138,14 +138,14 @@ Currently:
 </a>
 <a href="https://github.com/modi-meet">
   <img width="140" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</a> -->
 <!-- <a href="https://twitter.com/modi_meet">
   <img width="140" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a> -->
-</p>
+<!-- </p>
 <i>If you find my work interesting, let's connect and build something amazing together!</i>
 
-</div>
+</div> -->
 
 ---
 
@@ -164,7 +164,7 @@ Currently:
 
 <div align="center">
 
-**Thanks for visiting!**
+**Let's connect and build something amazing together!**
 
 
 </div>
