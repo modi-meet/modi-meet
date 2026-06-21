@@ -1,4 +1,5 @@
 <!-- Dynamic Header -->
+<!-- 
 <div align="center">
   <img width="80%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Meet%20Modi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Open-Source%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=52&descSize=18"/>
 </div>
@@ -23,6 +24,7 @@ Currently:
 - **Interests:** Web Dev, Mobile Apps, AI Integration
 - **Reach me:** [Connect @LinkedIn](https://linkedin.com/in/modi-meet-profile)
 - **Fun fact:** I believe great code tells a story
+-->
 
 ## Open Source Journey
 <div align="center">
@@ -53,16 +55,18 @@ Currently:
 </div>
 
 
+<!--
 ## Competencies
+-->
 <!-- <div align="center"> -->
 
+<!--
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00596C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -74,7 +78,7 @@ Currently:
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-<!-- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) -->
+
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -85,6 +89,7 @@ Currently:
 
 
 ## GitHub Analytics
+-->
 <!-- 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=modi-meet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -96,9 +101,9 @@ Currently:
 -->
 
 <!-- Profile Views Counter -->
- <p > <!--align="center" -->
+ <!--
+ <p >
   <img width="180" src="https://komarev.com/ghpvc/?username=modi-meet&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <!-- <img src="https://img.shields.io/github/followers/modi-meet?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/> -->
 </p>
 
 <div align="center">
@@ -125,7 +130,7 @@ Currently:
 | **Quick Learner** | Adapting to new technologies and frameworks rapidly |
 | **Consistency** | Daily commits and continuous improvement mindset |
 </div>
-
+-->
 
 
 <!-- ### Let's Connect
@@ -158,6 +163,7 @@ Currently:
 </div> -->
 
 <!-- Footer -->
+<!--
 <div align="center">
   <img width="80%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
@@ -168,3 +174,4 @@ Currently:
 
 
 </div>
+-->
